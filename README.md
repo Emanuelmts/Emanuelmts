@@ -1,6 +1,6 @@
 ## Hi there 👋 Sou o Emanuel Teixeira!
 
-- 🌱 Hoje estou aprendendo JavaScript.
+- 🌱 Estou aprimorando minhas habilidades em Análise de Dados.
 
 <a href="https://github.com/Emanuelmts">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Emanuelmts&layout=compact&show_icons=true&theme=blueberry" />
